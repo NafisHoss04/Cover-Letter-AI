@@ -1,6 +1,7 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-# Please add your OpenAI API in your .env file to get started. Optionally, you can prefill your resume in the `data/resume.ts` file.
+```
+Please add your OpenAI API in your .env file to get started.
+Optionally, you can prefill your resume in the `data/resume.ts` file.
+```
 
 ## Getting Started
 
