@@ -134,7 +134,6 @@ const Workflow = () => {
               markdown={coverLetter}
               options={{ tables: true, emoji: true }}
             />
-            // <p>{coverLetter}</p>
           )}
         </div>
       </div>
